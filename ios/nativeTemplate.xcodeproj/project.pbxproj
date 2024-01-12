@@ -72,6 +72,18 @@
 		6211A28DA7EA4E56BE971C9A /* Ubuntu-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 79242C47B26143F58BD20F38 /* Ubuntu-Regular.ttf */; };
 		24A5C6DBD1F94C10BD75742A /* native_dependencies.json in Resources */ = {isa = PBXBuildFile; fileRef = A85B49817E8C46428668995A /* native_dependencies.json */; };
 		A58D615A8F604E2582B8205E /* native_dependencies.json in Resources */ = {isa = PBXBuildFile; fileRef = A85B49817E8C46428668995A /* native_dependencies.json */; };
+		2B3E2108C1F64DACA5C7D043 /* Lato-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 701AC4D567EF4CB69F186C80 /* Lato-Black.ttf */; };
+		67337F8F2B4D45C18D1F8DAA /* Lato-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 701AC4D567EF4CB69F186C80 /* Lato-Black.ttf */; };
+		FBC93C6946EF45689BD2EC28 /* Lato-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D80ABDDD830C481DABE050FA /* Lato-BlackItalic.ttf */; };
+		F015153AFA394B40BA816119 /* Lato-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D80ABDDD830C481DABE050FA /* Lato-BlackItalic.ttf */; };
+		C5F1F37CCBDF4212ADB23DA1 /* Lato-Hairline.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4BCF1E6653104F3EA00D513F /* Lato-Hairline.ttf */; };
+		66D84136D47F4563926DC7A0 /* Lato-Hairline.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4BCF1E6653104F3EA00D513F /* Lato-Hairline.ttf */; };
+		82F4BF804E274DB48ED8D60E /* Lato-HairlineItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A704BB9EBAAB43668CB275A8 /* Lato-HairlineItalic.ttf */; };
+		952576C01CDC467F88FCED21 /* Lato-HairlineItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A704BB9EBAAB43668CB275A8 /* Lato-HairlineItalic.ttf */; };
+		BB1C2128094A4C3A99BB47C4 /* Lato-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E22457B2ECE432B925AAD2A /* Lato-Light.ttf */; };
+		CEC3CCA0C9944F4EA3436CC1 /* Lato-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E22457B2ECE432B925AAD2A /* Lato-Light.ttf */; };
+		EB8CD1BFD2B74B71BDF70899 /* Lato-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D6D3A92C2FDA47F48EF22184 /* Lato-LightItalic.ttf */; };
+		39BF6B3CEEF24CF3ACACCC45 /* Lato-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D6D3A92C2FDA47F48EF22184 /* Lato-LightItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -140,6 +152,12 @@
 		6A38BF1422994BEE9A52E0B8 /* Ubuntu-MediumItalic.ttf */ = {isa = PBXFileReference; name = "Ubuntu-MediumItalic.ttf"; path = "Ubuntu-MediumItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		79242C47B26143F58BD20F38 /* Ubuntu-Regular.ttf */ = {isa = PBXFileReference; name = "Ubuntu-Regular.ttf"; path = "Ubuntu-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		A85B49817E8C46428668995A /* native_dependencies.json */ = {isa = PBXFileReference; name = "native_dependencies.json"; path = "native_dependencies.json"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		701AC4D567EF4CB69F186C80 /* Lato-Black.ttf */ = {isa = PBXFileReference; name = "Lato-Black.ttf"; path = "Lato-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D80ABDDD830C481DABE050FA /* Lato-BlackItalic.ttf */ = {isa = PBXFileReference; name = "Lato-BlackItalic.ttf"; path = "Lato-BlackItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4BCF1E6653104F3EA00D513F /* Lato-Hairline.ttf */ = {isa = PBXFileReference; name = "Lato-Hairline.ttf"; path = "Lato-Hairline.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A704BB9EBAAB43668CB275A8 /* Lato-HairlineItalic.ttf */ = {isa = PBXFileReference; name = "Lato-HairlineItalic.ttf"; path = "Lato-HairlineItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8E22457B2ECE432B925AAD2A /* Lato-Light.ttf */ = {isa = PBXFileReference; name = "Lato-Light.ttf"; path = "Lato-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D6D3A92C2FDA47F48EF22184 /* Lato-LightItalic.ttf */ = {isa = PBXFileReference; name = "Lato-LightItalic.ttf"; path = "Lato-LightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -314,6 +332,12 @@
 				9A5A36F2635D466A82C22E93 /* Ubuntu-Medium.ttf */,
 				6A38BF1422994BEE9A52E0B8 /* Ubuntu-MediumItalic.ttf */,
 				79242C47B26143F58BD20F38 /* Ubuntu-Regular.ttf */,
+				701AC4D567EF4CB69F186C80 /* Lato-Black.ttf */,
+				D80ABDDD830C481DABE050FA /* Lato-BlackItalic.ttf */,
+				4BCF1E6653104F3EA00D513F /* Lato-Hairline.ttf */,
+				A704BB9EBAAB43668CB275A8 /* Lato-HairlineItalic.ttf */,
+				8E22457B2ECE432B925AAD2A /* Lato-Light.ttf */,
+				D6D3A92C2FDA47F48EF22184 /* Lato-LightItalic.ttf */,
 			);
 			path = Fonts;
 			sourceTree = "<group>";
@@ -438,6 +462,12 @@
 				CC8A3C8371A2409281AA631C /* Ubuntu-MediumItalic.ttf in Resources */,
 				F0054C34D522426982347744 /* Ubuntu-Regular.ttf in Resources */,
 				24A5C6DBD1F94C10BD75742A /* native_dependencies.json in Resources */,
+				2B3E2108C1F64DACA5C7D043 /* Lato-Black.ttf in Resources */,
+				FBC93C6946EF45689BD2EC28 /* Lato-BlackItalic.ttf in Resources */,
+				C5F1F37CCBDF4212ADB23DA1 /* Lato-Hairline.ttf in Resources */,
+				82F4BF804E274DB48ED8D60E /* Lato-HairlineItalic.ttf in Resources */,
+				BB1C2128094A4C3A99BB47C4 /* Lato-Light.ttf in Resources */,
+				EB8CD1BFD2B74B71BDF70899 /* Lato-LightItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -467,6 +497,12 @@
 				8CDBCDD4D591455AA8142B8C /* Ubuntu-MediumItalic.ttf in Resources */,
 				6211A28DA7EA4E56BE971C9A /* Ubuntu-Regular.ttf in Resources */,
 				A58D615A8F604E2582B8205E /* native_dependencies.json in Resources */,
+				67337F8F2B4D45C18D1F8DAA /* Lato-Black.ttf in Resources */,
+				F015153AFA394B40BA816119 /* Lato-BlackItalic.ttf in Resources */,
+				66D84136D47F4563926DC7A0 /* Lato-Hairline.ttf in Resources */,
+				952576C01CDC467F88FCED21 /* Lato-HairlineItalic.ttf in Resources */,
+				CEC3CCA0C9944F4EA3436CC1 /* Lato-Light.ttf in Resources */,
+				39BF6B3CEEF24CF3ACACCC45 /* Lato-LightItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
